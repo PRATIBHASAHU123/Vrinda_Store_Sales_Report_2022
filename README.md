@@ -35,7 +35,7 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
 
 Usage
 -------
-The Excel file 'Vrinda_Store_Sales_Report_2022.xlsx' contains the sales data and the dashboard created using Excel. It offers visualizations and insights based on the aforementioned objectives.
+The Excel file 'Vrinda Store Data Analysis.xlsx' contains the sales data and the dashboard created using Excel. It offers visualizations and insights based on the aforementioned objectives.
 
 Feel free to explore the workbook, use the dashboard, and analyze the data to gain deeper insights.
 
